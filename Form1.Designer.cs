@@ -108,7 +108,7 @@
             FormBorderStyle = FormBorderStyle.FixedSingle;
             MaximizeBox = false;
             Name = "Form1";
-            Text = "Form1";
+            Text = "Open RGB Accent Chooser";
             ResumeLayout(false);
             PerformLayout();
         }
